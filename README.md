@@ -1,0 +1,2 @@
+This is my Malware analysis report of a Process Injector malware that uses unique Windows API Functions to inject a shellcode which will ultimately trigger a reverse shell on the victim's computer to a listening server when they are connected to the internet.
+This report is done to satisfy the final fulfillments for the Practical Malware Analysis & Triage course taught by Matt Kiely in TCM Security Academy.
